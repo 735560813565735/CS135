@@ -1,4 +1,4 @@
-//Jake Mayer cs135
+
 //project 5 1d and 2d arrays
 #include <stdio.h>
 #include <stdbool.h>
