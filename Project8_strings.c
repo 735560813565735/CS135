@@ -1,4 +1,4 @@
-//Jake Mayer cs135
+
 #include <stdio.h>
 
 int strlength(char *s);
