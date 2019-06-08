@@ -1,4 +1,4 @@
-//Jake Mayer cs135
+
 // calculator project 4 program
 #include <stdio.h>
 #include <string.h>
