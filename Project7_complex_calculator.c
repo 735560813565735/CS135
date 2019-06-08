@@ -1,5 +1,5 @@
 // this program is supposed to add, subtract and multiply complex numbers.
-//Jake Mayer cs135 Project 7
+
 #include <stdio.h>
 #include <stdlib.h>
 
