@@ -1,4 +1,4 @@
-//Jake Mayer cs 135
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
